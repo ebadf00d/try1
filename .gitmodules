@@ -1,0 +1,3 @@
+[submodule "try2"]
+	path = try2
+	url = git@github.com:ebadf00d/try2.git
